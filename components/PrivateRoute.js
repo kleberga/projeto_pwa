@@ -1,21 +1,21 @@
 'use client'
 
-import { useRouter } from "next/router";
+import { useRouter } from "next/navigation";
 import { useEffect } from "react";
-import { useAuth } from "@/context/AuthContext";
+import { useAuth } from "@/contexts/AuthContext";
 
-const PrivateRoute = ({children}) => {
+const PrivateRoute = ({ children }) => {
     const { user } = useAuth();
     const router = useRouter();
-    const publicRoutes = ['/register'];
+    const publicRoutes = ['/registro'];
 
     useEffect(() => {
-        if(!user && !publicRoutes.includes(router.pathname)){
-            router.push('/')
+        if(!user && !publicRoutes.includes(router.pathname)) {
+            router.push('/');
         }
-    },[user, router.pathname])
+    }, [user, router.pathname])
 
     return user || publicRoutes.includes(router.pathname) ? children : null;
-}
+};
 
 export default PrivateRoute;

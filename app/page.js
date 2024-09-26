@@ -22,7 +22,7 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen p-6">
+    <div className="min-h-1 p-6">
       <h1 className='font-bold text-2xl'> Login </h1>
       <br></br>
       {error && <p className="text-red-500">{error}</p>}
@@ -35,7 +35,7 @@ export default function Home() {
           onChange={(e) => setEmail(e.target.value)}
           required
         />
-
+        
         <input
           type="password"
           placeholder="Senha"
