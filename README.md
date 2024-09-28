@@ -20,20 +20,22 @@ A seguir são apresentadas as telas do aplicativo.
 
 
 1. Tela de Registro:
+
 ![Tela_registro](tela_registro.PNG)
 
-
 2. Tela de Login:
+
 ![Tela_Login](tela_login.PNG)
 
-
 3. Tela Home:
+
 ![Tela_Home](tela_home.PNG)
 
-
 4. Tela Menu:
+
 ![Tela_menu](tela_menu.PNG)
 
 
 5. Tela Perfil:
-![Tela_perfil](tela_menu.PNG)
+   
+![Tela_perfil](tela_perfil.PNG)
