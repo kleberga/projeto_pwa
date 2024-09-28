@@ -12,7 +12,7 @@ O aplicativo utiliza o conceito de PWA e tem como objetivo gerenciar as tarefas 
 Do ponto de vista técnico, o aplicativo possui as seguintes características:
 - foi criado utilizando o framework Next.JS do React;
 - o aplicativo possui manifesto e pode ser instalado no computador;
-- existe um banco de dados local indexado ao navegador, para salvar as tarefas quando não houver conexão com a internet;
+- existe um banco de dados local indexado ao navegador, o qual armazena todas as tarefas e é utilizado para sincronizar as tarefas com o banco de dados na internet, caso alguma tarefa seja inserida quando não houver conexão com a internet;
 - o sistema de login é realizado pelo Google Firebase; e
 - o armazenamento do nome do usuário e das tarefas na internet é feito no banco de dados Firestore do Google Firebase.
 
