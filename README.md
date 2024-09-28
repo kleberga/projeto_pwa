@@ -31,7 +31,7 @@ A seguir são apresentadas as telas do aplicativo.
 
 ![Tela_Home](tela_home.PNG)
 
-4. Tela Menu:
+4. Menu do aplicativo:
 
 ![Tela_menu](tela_menu.PNG)
 
