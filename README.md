@@ -18,17 +18,22 @@ Do ponto de vista técnico, o aplicativo possui as seguintes características:
 
 A seguir são apresentadas as telas do aplicaitovo
 
+
 1. Tela de Registro
 ![image](tela_registro.PNG)
+
 
 2. Tela de Login
 ![image](tela_login.PNG)
 
+
 3. Tela Home
 ![image](tela_home.PNG)
 
+
 4. Tela Menu
 ![image](tela_menu.PNG)
+
 
 5. Tela Perfil
 ![image](tela_menu.PNG)
