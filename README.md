@@ -20,20 +20,20 @@ A seguir são apresentadas as telas do aplicaitovo
 
 
 1. Tela de Registro
-![image](tela_registro.PNG)
+![Tela_registro](tela_registro.PNG)
 
 
 2. Tela de Login
-![image](tela_login.PNG)
+![Tela_Login](tela_login.PNG)
 
 
 3. Tela Home
-![image](tela_home.PNG)
+![Tela_Home](tela_home.PNG)
 
 
 4. Tela Menu
-![image](tela_menu.PNG)
+![Tela_menu](tela_menu.PNG)
 
 
 5. Tela Perfil
-![image](tela_menu.PNG)
+![Tela_perfil](tela_menu.PNG)
