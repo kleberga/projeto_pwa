@@ -16,24 +16,24 @@ Do ponto de vista técnico, o aplicativo possui as seguintes características:
 - o sistema de login é realizado pelo Google Firebase; e
 - o armazenamento do nome do usuário e das tarefas na internet é feito no banco de dados Firestore do Google Firebase.
 
-A seguir são apresentadas as telas do aplicaitovo
+A seguir são apresentadas as telas do aplicativo.
 
 
-1. Tela de Registro
+1. Tela de Registro:
 ![Tela_registro](tela_registro.PNG)
 
 
-2. Tela de Login
+2. Tela de Login:
 ![Tela_Login](tela_login.PNG)
 
 
-3. Tela Home
+3. Tela Home:
 ![Tela_Home](tela_home.PNG)
 
 
-4. Tela Menu
+4. Tela Menu:
 ![Tela_menu](tela_menu.PNG)
 
 
-5. Tela Perfil
+5. Tela Perfil:
 ![Tela_perfil](tela_menu.PNG)
